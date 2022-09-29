@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Custom CSS */
+.person{
+  background-color: #383CC1;
+  color: #fff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.friend{
+  background-color: salmon;
+  padding: 20px;
+  border: 2px solid olive;
+  margin: 20px;
+  border-radius: 20px;
+  color: white;
+}
